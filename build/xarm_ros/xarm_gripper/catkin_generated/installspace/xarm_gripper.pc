@@ -1,0 +1,8 @@
+prefix=/home/kostas/catkin_ws/install
+
+Name: xarm_gripper
+Description: Description of xarm_gripper
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

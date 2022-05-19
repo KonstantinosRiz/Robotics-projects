@@ -1,0 +1,2 @@
+mymobibot/mymobibot_control:mymobibot/mymobibot_description:mymobibot/mymobibot_gazebo:robo2_mobile:robo2_redundant:xarm_ros/examples:xarm_ros/xarm5_moveit_config:xarm_ros/xarm6_gripper_moveit_config:xarm_ros/xarm6_moveit_config:xarm_ros/xarm7_moveit_config:xarm_ros/xarm_api:xarm_ros/xarm_bringup:xarm_ros/xarm_controller:xarm_ros/xarm_description:xarm_ros/xarm_device:xarm_ros/xarm_gazebo:xarm_ros/xarm_gripper:xarm_ros/xarm_msgs:xarm_ros/xarm_planner
+-DCATKIN_DEVEL_PREFIX=/home/kostas/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kostas/catkin_ws/install -G Unix Makefiles

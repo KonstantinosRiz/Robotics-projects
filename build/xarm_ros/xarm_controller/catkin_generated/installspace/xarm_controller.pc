@@ -1,0 +1,8 @@
+prefix=/home/kostas/catkin_ws/install
+
+Name: xarm_controller
+Description: Description of xarm_controller
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: controller_manager joint_state_controller robot_state_publisher xarm_api
